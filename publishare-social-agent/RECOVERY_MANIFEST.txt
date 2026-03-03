@@ -1,0 +1,4 @@
+Recovery Timestamp: 20260302-163738
+Source: /Users/funkyfortress/Documents/01-ALL DOCUMENTS/05 - Projects/CallReady/02-Expansion-Operations-Planning/01-Products-Services/02-Software-Platforms/publishare
+Purpose: Social conversation + Slack approval operational snapshot
+Excluded: node_modules, .next, output, tmp, .vercel

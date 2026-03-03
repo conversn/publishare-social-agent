@@ -1,0 +1,115 @@
+{
+  "site_id": "parentsimple",
+  "analysis_date": "2025-12-02T03:25:07.116Z",
+  "total_articles": 55,
+  "categories_with_content": 5,
+  "categories_without_content": 1,
+  "gaps": [
+    {
+      "ux_category_slug": "middle-school",
+      "ux_category_name": "Middle School",
+      "article_count": 0,
+      "priority": 3,
+      "recommended_articles": [
+        "Middle School Course Selection: Setting Up for Success",
+        "Study Skills and Time Management for Teens",
+        "Preparing for High School: A Parent's Guide",
+        "Summer Programs and Enrichment Opportunities",
+        "Building Academic Foundations in Middle School",
+        "Middle School Academic Planning: Setting the Stage",
+        "Extracurricular Activities for Middle Schoolers",
+        "Preparing for High School: Complete Guide for 8th Grade Parents"
+      ],
+      "similar_content_ids": [
+        "1e59303d-a0bc-492c-9cdc-828ebd679692",
+        "bd3124c2-2efb-407b-be66-bfeb2eda3b00",
+        "b49f45ea-15d4-466b-8fb6-c883d4068304",
+        "0d258a98-983d-47c3-81d6-2785106c336d"
+      ],
+      "re_categorization_opportunities": [
+        {
+          "article_id": "1e59303d-a0bc-492c-9cdc-828ebd679692",
+          "article_title": "Extracurricular Activities for Middle Schoolers: Complete Guide",
+          "from_category": "high-school",
+          "to_category": "middle-school"
+        },
+        {
+          "article_id": "bd3124c2-2efb-407b-be66-bfeb2eda3b00",
+          "article_title": "Preparing for High School: Complete Guide for 8th Grade Parents",
+          "from_category": "high-school",
+          "to_category": "middle-school"
+        },
+        {
+          "article_id": "b49f45ea-15d4-466b-8fb6-c883d4068304",
+          "article_title": "High School Course Selection: Complete Guide to Building a Strong Transcript",
+          "from_category": "high-school",
+          "to_category": "middle-school"
+        },
+        {
+          "article_id": "0d258a98-983d-47c3-81d6-2785106c336d",
+          "article_title": "Middle School Academic Planning: Setting the Stage for High School Success",
+          "from_category": "high-school",
+          "to_category": "middle-school"
+        }
+      ]
+    }
+  ],
+  "immediate_actions": [],
+  "content_creation_plan": {
+    "priority_1": [],
+    "priority_2": [],
+    "priority_3": [
+      {
+        "ux_category_slug": "middle-school",
+        "ux_category_name": "Middle School",
+        "article_count": 0,
+        "priority": 3,
+        "recommended_articles": [
+          "Middle School Course Selection: Setting Up for Success",
+          "Study Skills and Time Management for Teens",
+          "Preparing for High School: A Parent's Guide",
+          "Summer Programs and Enrichment Opportunities",
+          "Building Academic Foundations in Middle School",
+          "Middle School Academic Planning: Setting the Stage",
+          "Extracurricular Activities for Middle Schoolers",
+          "Preparing for High School: Complete Guide for 8th Grade Parents"
+        ],
+        "similar_content_ids": [
+          "1e59303d-a0bc-492c-9cdc-828ebd679692",
+          "bd3124c2-2efb-407b-be66-bfeb2eda3b00",
+          "b49f45ea-15d4-466b-8fb6-c883d4068304",
+          "0d258a98-983d-47c3-81d6-2785106c336d"
+        ],
+        "re_categorization_opportunities": [
+          {
+            "article_id": "1e59303d-a0bc-492c-9cdc-828ebd679692",
+            "article_title": "Extracurricular Activities for Middle Schoolers: Complete Guide",
+            "from_category": "high-school",
+            "to_category": "middle-school"
+          },
+          {
+            "article_id": "bd3124c2-2efb-407b-be66-bfeb2eda3b00",
+            "article_title": "Preparing for High School: Complete Guide for 8th Grade Parents",
+            "from_category": "high-school",
+            "to_category": "middle-school"
+          },
+          {
+            "article_id": "b49f45ea-15d4-466b-8fb6-c883d4068304",
+            "article_title": "High School Course Selection: Complete Guide to Building a Strong Transcript",
+            "from_category": "high-school",
+            "to_category": "middle-school"
+          },
+          {
+            "article_id": "0d258a98-983d-47c3-81d6-2785106c336d",
+            "article_title": "Middle School Academic Planning: Setting the Stage for High School Success",
+            "from_category": "high-school",
+            "to_category": "middle-school"
+          }
+        ]
+      }
+    ],
+    "priority_4": []
+  },
+  "estimated_articles_needed": 8,
+  "estimated_time_to_complete": "4 days"
+}

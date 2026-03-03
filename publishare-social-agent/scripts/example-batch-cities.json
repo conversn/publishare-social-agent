@@ -1,0 +1,33 @@
+[
+  {
+    "city": "Tampa",
+    "state": "FL",
+    "vertical": "hvac"
+  },
+  {
+    "city": "Tampa",
+    "state": "FL",
+    "vertical": "plumbing"
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "vertical": "hvac"
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "vertical": "plumbing"
+  },
+  {
+    "city": "Orlando",
+    "state": "FL",
+    "vertical": "hvac"
+  },
+  {
+    "city": "Orlando",
+    "state": "FL",
+    "vertical": "pest"
+  }
+]
+

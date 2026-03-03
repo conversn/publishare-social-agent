@@ -1,0 +1,13 @@
+{
+  "tasks": {
+    "test": "deno test --allow-env --allow-net",
+    "dev": "deno run --allow-env --allow-net --watch index.ts"
+  },
+  "imports": {
+    "supabase": "https://esm.sh/@supabase/supabase-js@2.39.3",
+    "deno_dom": "https://deno.land/x/deno_dom@v0.1.38/deno-dom-wasm.ts"
+  }
+}
+
+
+

@@ -1,0 +1,136 @@
+{
+  "generated_at": "2025-12-02T03:38:56.333Z",
+  "site_id": "parentsimple",
+  "results": {
+    "success": [
+      {
+        "title": "Preschool Readiness: What Your Child Needs to Know Before Starting School",
+        "article_id": "66c884a6-1760-420a-b008-e0911bdb6e66",
+        "category": "early-years",
+        "status": "draft"
+      },
+      {
+        "title": "Early Literacy Development: Building Reading Skills from Birth to Age 5",
+        "article_id": "9e9c927e-3e7f-46dc-8cdc-88559555da56",
+        "category": "early-years",
+        "status": "draft"
+      },
+      {
+        "title": "Social-Emotional Learning in Early Childhood: A Parent's Guide",
+        "article_id": "c189896d-18cf-4ff0-91fd-b3eeeca8351d",
+        "category": "early-years",
+        "status": "draft"
+      },
+      {
+        "title": "STEM Activities for Toddlers and Preschoolers",
+        "article_id": "0af10a17-7637-42cd-885b-773761c55329",
+        "category": "early-years",
+        "status": "draft"
+      },
+      {
+        "title": "Managing Screen Time for Young Children: Evidence-Based Guidelines",
+        "article_id": "c3a21928-030a-45a6-b506-873052c25c7d",
+        "category": "early-years",
+        "status": "draft"
+      },
+      {
+        "title": "Nutrition for Early Childhood Development: Building Healthy Habits",
+        "article_id": "16da8097-b046-450c-abed-461dc592de86",
+        "category": "early-years",
+        "status": "draft"
+      },
+      {
+        "title": "Sleep Training and Bedtime Routines for Young Children",
+        "article_id": "dad097ec-dc11-47ba-9acc-08338be767c1",
+        "category": "early-years",
+        "status": "draft"
+      },
+      {
+        "title": "Potty Training Success: A Comprehensive Guide for Parents",
+        "article_id": "981c4192-46eb-41fe-903a-2e254d723e5c",
+        "category": "early-years",
+        "status": "draft"
+      },
+      {
+        "title": "Building Resilience in Young Children: Strategies for Parents",
+        "article_id": "b9ebd73e-1255-4f0b-98fb-0713ef6a6459",
+        "category": "early-years",
+        "status": "draft"
+      },
+      {
+        "title": "Early Math Skills: How to Introduce Numbers and Counting",
+        "article_id": "9a56d079-1a21-4c49-a748-a08950365153",
+        "category": "early-years",
+        "status": "draft"
+      },
+      {
+        "title": "Middle School Course Selection: Setting Up for Success",
+        "article_id": "22dac303-0e2a-40a9-bb5b-bd1ca73668ad",
+        "category": "middle-school",
+        "status": "draft"
+      },
+      {
+        "title": "Study Skills and Time Management for Teens",
+        "article_id": "5910e087-b3c7-4023-a3ad-cff773d8d983",
+        "category": "middle-school",
+        "status": "draft"
+      },
+      {
+        "title": "Preparing for High School: A Parent's Guide",
+        "article_id": "f2f7e6ae-6a0d-48e9-9e52-7abf5a48e1af",
+        "category": "middle-school",
+        "status": "draft"
+      },
+      {
+        "title": "Summer Programs and Enrichment Opportunities",
+        "article_id": "5c23064b-a5b1-49e2-92d0-05553bfbc82b",
+        "category": "middle-school",
+        "status": "draft"
+      },
+      {
+        "title": "Building Academic Foundations in Middle School",
+        "article_id": "0a0a5b01-9dca-49ea-9447-87f90188606d",
+        "category": "middle-school",
+        "status": "draft"
+      },
+      {
+        "title": "Middle School Academic Planning: Setting the Stage",
+        "article_id": "b6b7748c-c071-4c2d-bb03-547885c63e0d",
+        "category": "middle-school",
+        "status": "draft"
+      },
+      {
+        "title": "Extracurricular Activities for Middle Schoolers",
+        "article_id": "a63af696-4710-4871-80a0-b94f979bccc0",
+        "category": "middle-school",
+        "status": "draft"
+      },
+      {
+        "title": "Time Management Skills for Middle Schoolers: A Parent's Guide",
+        "article_id": "f3793bcc-1dd8-44b7-b296-16e4697ddf90",
+        "category": "middle-school",
+        "status": "draft"
+      },
+      {
+        "title": "Social Media Safety for Middle School Students",
+        "article_id": "915b751c-7f67-42bb-be4a-d52ed8242b1b",
+        "category": "middle-school",
+        "status": "draft"
+      }
+    ],
+    "failed": [
+      {
+        "title": "Preparing for High School: Complete Guide for 8th Grade Parents",
+        "category": "middle-school",
+        "error": "HTTP 500: {\"success\":false,\"error\":\"Failed to create article: duplicate key value violates unique constraint \\\"unique_slug\\\"\",\"timestamp\":\"2025-12-02T03:37:56.416Z\"}"
+      }
+    ]
+  },
+  "summary": {
+    "total": 20,
+    "success": 19,
+    "failed": 1,
+    "early_years": 10,
+    "middle_school": 9
+  }
+}
